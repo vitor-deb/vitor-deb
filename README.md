@@ -12,3 +12,5 @@
 </p>
 
 Sistema: Debian (GNOME)
+
+![Cartão de perfil](./assets/profile.svg)
