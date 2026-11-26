@@ -11,6 +11,5 @@
   <img src="https://cdn.simpleicons.org/gnome/white" width="40" height="40" />
 </p>
 
-Sistema: Debian (GNOME)
-
 ![Cartão de perfil](./assets/profile.svg)
+
