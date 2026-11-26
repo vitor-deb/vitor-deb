@@ -11,5 +11,6 @@
   <img src="https://cdn.simpleicons.org/gnome/white" width="40" height="40" />
 </p>
 
-<img src="https://raw.githubusercontent.com/vitor-deb/vitor-deb/main/assets/profile.svg" alt="Cartão de perfil" width="760">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/vitor-deb/vitor-deb/refs/heads/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
+</p>
