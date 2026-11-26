@@ -11,5 +11,5 @@
   <img src="https://cdn.simpleicons.org/gnome/white" width="40" height="40" />
 </p>
 
-![Cartão de perfil](./assets/profile.svg)
+<img src="https://raw.githubusercontent.com/vitor-deb/vitor-deb/main/assets/profile.svg" alt="Cartão de perfil" width="760">
 
