@@ -1,5 +1,9 @@
 # Welcome to my github
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitor-deb/vitor-deb/refs/heads/main/assets/vitor-deb.png" alt="ASCII profile card" width="100%" />
+</p>
+
 ### Skills:
 
 <p align="left">
