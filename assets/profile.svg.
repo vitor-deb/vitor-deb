@@ -1,0 +1,35 @@
+# Paste over the matching sections of the generator script.
+PROFILE_FIELDS = [
+    ("Role", "systems analysis student"),
+    ("Focus", "python & linux"),
+    ("Stack.Scripting", "python"),
+    ("Environment", "linux, debian, gnome, git, vscode"),
+    ("Contact.GitHub", "github.com/vitor-deb"),
+]
+
+PROMPT_COMMANDS = [
+    "informatics student",
+    "junior web developer",
+    "cybersecurity enthusiast",
+]
+
+BG_COLOR = "#0b1120"
+TITLEBAR_COLOR = "#141c30"
+TITLE_TEXT_COLOR = "#7f8aa6"
+ACCENT = "#5dc9f2"
+HEADER_COLOR = "#e8384f"
+LABEL_COLOR = "#ffffff"
+VALUE_COLOR = "#5dc9f2"
+PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff", "#b16cff", "#39e0d0", "#e8e8e8"]
+
+RAMP = " .:+#@"
+
+ART_COLS = 40
+
+PROMPT_TYPE_SPEED = 0.08
+PROMPT_DELETE_SPEED = 0.045
+PROMPT_HOLD_TIME = 1.1
+PROMPT_GAP_TIME = 0.4
+PROMPT_CHAR_W = 9
+
+# export GITHUB_LOGIN=vitor-deb
