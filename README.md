@@ -15,6 +15,3 @@
   <img src="https://cdn.simpleicons.org/gnome/white" width="40" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vitor-deb/vitor-deb/refs/heads/main/assets/Vitor-deb.png" alt="ascii profile card" width="100%" />
-</p>
