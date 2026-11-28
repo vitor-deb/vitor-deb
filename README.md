@@ -39,6 +39,5 @@
 
 <h4 align="center">Tools & Productivity</h4>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
-  <img src="
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git
   
