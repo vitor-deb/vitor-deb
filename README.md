@@ -4,6 +4,9 @@
   <img src="./assets/profile.svg?v=3" alt="ASCII profile card" width="100%" />
 </p>
 
+
+
+
 ### Skills:
 
 <p align="left">
@@ -12,6 +15,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" title="Debian" width="40" height="40" />
   <img src="https://cdn.simpleicons.org/gnome/4A86CF" alt="GNOME" title="GNOME" width="40" height="40" />
 </p>
+
+
+
 
 ### Tools:
 
